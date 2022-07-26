@@ -1,3 +1,0 @@
-# Anova Financial Networks
-
-Test
